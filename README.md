@@ -16,7 +16,7 @@
 
 ## Step 1: Reconnaissance
 
-Like any good hacker (or chef), the first step is to taste the dish. So, I opened the app on my phone. It immediately asked for a password. If you get it wrong, it says:  
+Like any good hacker (or chef), the first step is to taste the dish. So, I opened the app on my phone. It asked for a password. If you get it wrong, it says:  
 **"Try Again ;)"**  
 Classic. Now we know what we’re hunting for!
 
